@@ -1,0 +1,21 @@
+:root {
+  // base
+  --font-family: 'PublicSans', sans-serif;
+  --second-family: 'LibreBaskerville', sans-serif;
+  --container-width: 1152px;
+
+  // offsets
+  --offset: 32px;
+  --container-offset: 16px;
+
+  //sizes
+  --main-size: 13px;
+  --second-size: 15px;
+
+  // colors
+  --light-color: #fff;
+  --accent-color: #00a1ff;
+  --active-color: #e00e00;
+  --text-color: rgba(53, 83, 98, 0.8);
+  --dark-color: #003331;
+}
